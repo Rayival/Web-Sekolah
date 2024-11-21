@@ -7,7 +7,14 @@
     </div>
         <div class="nav">
             <a href="#">HOME</a>
+            <!-- <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"> -->
             <a href="#">PROFIL<i class="fas fa-caret-down"></i></a>
+            <!-- </button>
+                <ul class="dropdown-menu">
+    <li><a class="dropdown-item" href="#">Action</a></li>
+    <li><a class="dropdown-item" href="#">Action two</a></li>
+    <li><a class="dropdown-item" href="#">Action three</a></li>
+  </ul> -->
             <a href="#">KURIKULUM<i class="fas fa-caret-down"></i></a>
             <a href="#">SAPRAS</a>
             <a href="#">EKSTRAKURIKULER</a>
@@ -53,9 +60,3 @@
             text-decoration: underline;
         }
   </style>
-
-  
-
-
-
-
