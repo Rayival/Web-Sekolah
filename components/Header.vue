@@ -26,7 +26,7 @@
                             Profil
                         </a>
                         <ul class="menu" :class="{ 'open' : isOpen }">
-                            <li><a class="dropdown-item" href="#">Sejarah</a></li>
+                            <li><a class="dropdown-item" href="/Profil/Sejarah.vue">Sejarah</a></li>
                             <li><a class="dropdown-item" href="#">Visi & Misi</a></li>
                             <li><a class="dropdown-item" href="#">Data Pokok</a></li>
                         </ul>
